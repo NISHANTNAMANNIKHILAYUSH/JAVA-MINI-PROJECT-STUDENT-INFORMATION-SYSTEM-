@@ -73,7 +73,7 @@ _______IMPORTANT PART___________________________________________________________
 
 
 ### ✅ 3. now go to the xampp file were you install it -> now click on htdoc file-> now CREATE FILE  " student_system file "
--> NOW PATE ALL THE FILE IT 
+-> NOW PASTE ALL THE FILE IT 
 
 
 __________________________________________________________________________________________________________________________________________
