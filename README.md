@@ -72,7 +72,7 @@ CREATE TABLE fees (
 _______IMPORTANT PART_____________________________________________________________________________________________________________________
 
 
-### ✅ 3. now go to the xampp file were you install it -> now click on htdoc file-> now CREATE FILE  " student_system file "
+### ✅ 3. now go to the xampp file were you install it -> now click on htdoc file-> now CREATE FILE  " student_system "
 -> NOW PASTE ALL THE FILE IT 
 
 
